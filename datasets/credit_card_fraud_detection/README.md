@@ -19,8 +19,4 @@
 
 ## TODO
 
-1. 이상치 제거, Oversampling 적용해보기
-2. optuna 활용하여 hyperparameter tuning 
-3. StratifiedKFold cross validation 적용 
-4. sklearn.pipeline.Pipeline 활용하여 구조화 
-5. 코드 패키지화
+1. optuna 활용하여 hyperparameter tuning 
